@@ -1,2 +1,3 @@
-# freecc
-Completed projects from freeCodeCamp courses.
+# Progress
+Projects Completed
+- 
